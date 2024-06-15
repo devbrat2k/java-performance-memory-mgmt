@@ -1,9 +1,9 @@
-package com.devbrat2k.java.memory;
+package com.devbrat2k.java.memory.references;
 
 public class PassByReferenceDemo {
 
 	/**
-	 * Please try to calculate the output before running and seeing the output.
+	 * Please predict the output priot to running the code and verify expectation.
 	 * @param args
 	 */
 	public static void main(String... args) {

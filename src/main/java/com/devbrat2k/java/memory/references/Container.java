@@ -1,4 +1,4 @@
-package com.devbrat2k.java.memory;
+package com.devbrat2k.java.memory.references;
 
 public class Container {
 	private String initial = "A";

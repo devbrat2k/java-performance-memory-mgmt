@@ -1,0 +1,3 @@
+module demoClient {
+    requires EscapingReferences;
+}
